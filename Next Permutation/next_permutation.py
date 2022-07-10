@@ -26,3 +26,4 @@ if __name__ == "__main__":
     n = input()
     s = [i for i in n]
     print(next_permutation(s))
+    
