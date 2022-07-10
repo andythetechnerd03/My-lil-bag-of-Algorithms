@@ -25,7 +25,10 @@ def linear_combination(a, b):
 
 if __name__ == "__main__":
     a, b = list(map(int, input().split()))
-    a = max(a, b)
-    b = min(a, b)
+    check = a > b
+    if not check:
+        a, b = b, a
     x, y = linear_combination(a, b)
+    if not check:
+        x, y = y, x
     print(x, y)
