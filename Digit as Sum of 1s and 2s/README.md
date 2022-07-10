@@ -6,7 +6,7 @@ This exercise is initially tasked by my instructor as an example of recursion, b
 Given an integer n, output all the integers (consisting of only 1s and 2s) whose sum of all of its digits add up to n.
 
 ## Input
-An integer n of the number that you want to represent as strings of 0s and 1s.
+An integer n of the number that you want to represent as strings of 1s and 2s.
 
 ## Output
 All possible permutations of integers whose digits all add up to the input number.
