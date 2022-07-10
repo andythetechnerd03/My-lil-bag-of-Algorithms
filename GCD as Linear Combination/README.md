@@ -2,7 +2,7 @@
 
 ## Introduction
 This is a part in the GCD (Greatest Common Divisor) section in the Discrete Mathematics course. According to one of their theorems, a GCD of any two numbers (a and b)
-can be written as a linear combination of these two numbers with integer coefficients, that is: gcd = ax + by. <br>
+can be written as a linear combination of these two numbers with integer coefficients, that is: **gcd = ax + by** . <br>
 This algorithm (called Extended Euclidean Algorithm) deals with this problem. <br>
 
 ## Input
