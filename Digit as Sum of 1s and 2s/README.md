@@ -1,6 +1,6 @@
 This exercise is initially tasked by my instructor as an example of recursion, but I kinda prefer the "classic" DP method :D, so I used it instead
 
-Task: Given an integer n, output all the integers whose sum of all of its digits add up to n
+Task: Given an integer n, output all the integers (consisting of only 1s and 2s) whose sum of all of its digits add up to n
 
 Input: 3 
 Output: 111, 12, 21
