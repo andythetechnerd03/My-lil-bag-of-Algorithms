@@ -18,7 +18,7 @@ Explaination: GCD of 6 and 14 is 2, so we have: 2 = 6 x (-2) + 14 x 1 <br>
 <br>
 Input: 0 0 <br>
 Output: 1 0 <br>
-Explaination: It's commonly accepted that gcd(0,0) is 0, so 0 = 1 x 0 + 0 x 0
+Explaination: It's commonly accepted that gcd(0,0) is 0, so 0 = 1 x 0 + 0 x 0 <br>
 <br>
 Input: 10 10 <br>
 Output: 1 0 <br>
