@@ -70,3 +70,9 @@ print("Faster Fibonacci takes: ", time3 - time2)
 print("Instant Fibonacci takes: ", time4 - time3)
 
 # The three algos took: 15s, 0.0s and 0.0s respectively. Obviously the first one is gone for sure!!
+
+# For totally new and innovate algorithms though, it's a little tricky to stress test straight away. But here, instead
+# of doing a while loop, we do a for loop of 100-ish tests, and we have to verify each of them by hand, or by any forms
+# of testing you have (like sampling, etc.)
+
+# THE END!
