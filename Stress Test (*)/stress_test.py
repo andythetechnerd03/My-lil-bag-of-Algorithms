@@ -75,4 +75,7 @@ print("Instant Fibonacci takes: ", time4 - time3)
 # of doing a while loop, we do a for loop of 100-ish tests, and we have to verify each of them by hand, or by any forms
 # of testing you have (like sampling, etc.)
 
+# Oh and last thing, most algorithms will be too "fast" that the time printed will be roughly (0.00s) so try with HUGH number n (like 1 Billion)
+# to see the actual difference
+
 # THE END!
